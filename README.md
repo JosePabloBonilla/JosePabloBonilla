@@ -1,5 +1,5 @@
 # Hi, Welcome to my GitHub!
-I'm a recently graduated software engineer looking for new oportunities.<br>
+I'm a recently graduated software developer looking for new oportunities.<br>
 ![programming](https://user-images.githubusercontent.com/77737837/160047611-a267e1a0-4be0-4ac7-830e-ecad639c51fc.gif)
 ## [My Resume](https://github.com/JosePabloBonilla/JosePabloBonilla/blob/master/Jose%20Pablo%20Bonilla%20RESUME.pdf)<br>
 ![](https://komarev.com/ghpvc/?username=JosePabloBonilla&color=blueviolet)
